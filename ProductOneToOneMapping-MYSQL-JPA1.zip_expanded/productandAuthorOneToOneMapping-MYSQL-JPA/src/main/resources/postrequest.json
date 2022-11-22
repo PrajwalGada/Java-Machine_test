@@ -1,0 +1,15 @@
+{
+    "id":111,
+    "name":"core java with JVM Architech",
+    "author":{
+        "id":11,
+        "firstName":"Product1",
+        "lastName":"P2",
+        "language":"English",
+        "bookCategory":{
+            "id":1,
+            "book_type":"romance",
+            "price":150
+        }
+    }
+}
